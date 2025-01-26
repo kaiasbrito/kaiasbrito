@@ -1,12 +1,12 @@
-## 💫 Oi, pode me chamar de Kaia! 👋
+## 💫 Oi, me chamou Niccolas Kaiá! 👋
 
-<br> :email: clauder.brito@al.infnet.edu.br
-<br> :iphone: 92 8822-5451 <br/>
+<br> :email: niccolas.kaia@al.infnet.edu.br
+<br> :iphone: 92 98822-5451 <br/>
 
 ### 💫 Sobre mim:
 
 <br>- 🧑🏻‍💻 Trabalho com tecnologia da informação com ênfase em: análise de dados, segurança da informação, redes de computadores, suporte e desenvolvimento web. <br/>
-<br>- 🧑🏻‍🎓 Estudante de Tecnologia da Informação no Instituto Infnet, modalidade live noturna (3/5). <br/>
+<br>- 🧑🏻‍🎓 Estudante de Tecnologia da Informação no Instituto Infnet, modalidade live noturna (4/5). <br/>
 <br>- 🧠 Atualmente estou me aperfeiçoando em programação com python e programação web com javascript, html 5 e css 3 e webdesign. <br/>
 <br>- 🌱 Estou em transição de carreira depois de anos trabalhando com design gráfico, UX/UI, marketing e comunicação visual. <br/>
 
